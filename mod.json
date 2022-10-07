@@ -1,0 +1,9 @@
+{
+    "name": "Auto Rebuild",
+    "displayName": "Auto Rebuild",
+    "author": "Omnidroid",
+    "description": "Rebuild destroyed base",
+    "version": "1",
+    "minGameVersion": 126,
+    "hidden": true
+}
