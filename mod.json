@@ -2,7 +2,7 @@
     "name": "Auto Rebuild",
     "displayName": "Auto Rebuild",
     "author": "Omnidroid",
-    "description": "Rebuild destroyed base",
+    "description": "Rebuild destroyed base in one click without poly",
     "version": "1",
     "minGameVersion": 126,
     "hidden": true
