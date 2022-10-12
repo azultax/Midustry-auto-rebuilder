@@ -1,5 +1,3 @@
-var enUnitHealthBar = false;
-
 Events.on(EventType.ClientLoadEvent, e => {
     const version = "1.02";
     const buttonStyleTogglet = Styles.logicTogglet;
