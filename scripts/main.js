@@ -6,7 +6,7 @@ Events.on(EventType.ClientLoadEvent, e => {
     const dragTable = extend(Table, {
         curx : 100, cury : 200, flip : true, fromx : 0, fromy : 0
     });
-    dragTable.name = "Omnidroid";
+    dragTable.name = "table";
     Vars.ui.hudGroup.addChild(dragTable);
 
     dragTable.left().bottom();
